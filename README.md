@@ -3,11 +3,11 @@
 <img width="595" alt="Capture2" src="https://github.com/Yaqi-graphics/Phase-5-project---safaricom/assets/137016696/508484e6-72ad-4cc3-bbef-ff996a316d56">
 
 ### Group 8 Members.
-Jackline Njuguna
-Vitelis Siocha
-Angel Atungire
-Elsie Ochieng
-Flavine Atieno
+Jackline Njuguna,
+Vitelis Siocha,
+Angel Atungire,
+Elsie Ochieng,
+Flavine Atieno,
 Evans Machua
 
 ## The company:
